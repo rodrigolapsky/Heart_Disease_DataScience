@@ -1,6 +1,6 @@
 # 🩺 Heart Disease Prediction: End-to-End Data Science
 
-Este projeto de Ciência de Dados para a predição de doenças cardíacas, desde a análise exploratória até a implementação de modelos de Machine Learning.
+Este projeto de Ciência de Dados para a predição de doenças cardíacas, desde a análise exploratória até a implementação de modelo de Machine Learning.
 
 ## 🚀 O Projeto
 O objetivo principal foi construir um modelo capaz de identificar riscos cardíacos com precisão. 
